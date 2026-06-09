@@ -14,8 +14,10 @@ including any environment-specific details.
 
 * If you plan to add tests or documentation after opening this PR,
   please note it here.
-* For user-visible changes, remember to add an entry to CHANGES.rst.
-* Please add your name to AUTHORS.rst if you haven't already!
+* If the repo contains a changelog (e.g. CHANGES.rst), remember to add an
+  entry for any user-visible changes.
+* If the repo contains an authors file (e.g. AUTHORS.rst), please add your
+  name if you haven't already!
 -->
 
 
